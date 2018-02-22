@@ -12,7 +12,11 @@
  
 @Sample URL 				:   /services/apexrest/MyCases/GetMyCases/0056F000006QztFQAS
 
+<<<<<<< .mine
 Testing Git COmmits and Branching. Again Testing....
+=======
+Testing Git COmmits and Branching.
+>>>>>>> .theirs
 ***************************************************************************************************************/
 
 @RestResource(urlMapping='/MyCases/GetMyCases/*')
